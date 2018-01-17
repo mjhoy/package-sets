@@ -1531,7 +1531,7 @@
       "unsafe-coerce"
     ],
     "repo": "https://github.com/mjhoy/purescript-formatters.git",
-    "version": "v1.0.0-fix"
+    "version": "v1.0.0-fix2"
   },
   "free": {
     "dependencies": [
