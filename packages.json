@@ -1167,6 +1167,21 @@
     "repo": "https://github.com/mjhoy/purescript-express.git",
     "version": "psc-0.11"
   },
+  "fetch": {
+    "dependencies": [
+      "maps",
+      "prelude",
+      "sets",
+      "partial",
+      "maybe",
+      "transformers",
+      "profunctor",
+      "newtype",
+      "foldable-traversable"
+    ],
+    "repo": "https://github.com/rightfold/purescript-fetch.git",
+    "version": "v0.0.8"
+  },
   "filterable": {
     "dependencies": [
       "arrays",
